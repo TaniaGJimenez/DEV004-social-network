@@ -4,7 +4,7 @@ import welcomePic from '../Img/CircleLogo.png';
 import homeHome from '../Img/homeIcon.png';
 import likedIcon from '../Img/likePaw.png';
 import likeIcon from '../Img/likePawZero.png';
-import logo from '../Img/logopetropolissf.png';
+import logo from '../Img/logoPetropolisSF.png';
 import outOut from '../Img/logOutIcon.png';
 import profileProfile from '../Img/profileIcon.png';
 
